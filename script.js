@@ -140,6 +140,3 @@
 // document.write(a);
 // document.write("<br>")
 // document.write(b);
-
-
-
